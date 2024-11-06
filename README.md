@@ -18,4 +18,4 @@ Make sure is executable
 chmod +x (to activate files)
 Drag YTDLaudo.desktop to desktop to have desktop icon
 
-From what I remember, tailor to your system. Enoy!
+From what I remember, tailor to your system. Enjoy!
