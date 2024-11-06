@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Your Application Name
+Comment=Downloader for YouTube audio only
+Exec=/home/oem/myenv/bin/python3 /home/oem/YTDLaudio.py
+Icon=/home/oem/Downloads/doraemon-48.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Name[en_US]=YTDLaudio
