@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Your Application Name
+Comment=Downloader for YouTube audio only
+Exec=/home/oem/YTDLaudioOnly/myenv/bin/python3 /home/oem/YTDLaudioOnly/YTDLaudio.py
+Icon=/home/oem/YTDLaudioOnly/konata.png
+Terminal=false
+Type=Application
+Categories=Utility;
+Name[en_US]=YTDLaudio
